@@ -24,7 +24,7 @@
 
 .row_poster:hover {
   transform: scale(1.08);
-  transition: all ease-in 0.2s;
+  transition: all ease-in 0.1s;
 }
 
 .row__posterLarge {
