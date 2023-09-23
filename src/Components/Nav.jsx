@@ -21,7 +21,12 @@ function Nav() {
   return (
     <div className={`nav ${show && "nav__black"}`}>
       <div className="container">
-        <img className="nav__logo" src="netflix.svg" alt="logo" />
+        <img
+          onClick={() => navigate("/")}
+          className="nav__logo"
+          src="netflix.svg"
+          alt="logo"
+        />
         <img
           onClick={() => navigate("/profile")}
           className="nav__avatar"
