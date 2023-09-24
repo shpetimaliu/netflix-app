@@ -20,5 +20,5 @@
 }
 
 .subscribed {
-  background-image: linear-gradient(gray, gray);
+  background-image: linear-gradient(rgb(128, 128, 128), rgb(128, 128, 128));
 }
