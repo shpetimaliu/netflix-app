@@ -8,3 +8,13 @@
 .planScreen__plan:hover {
   opacity: 1;
 }
+
+.planScreen__plan > button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #e50914;
+  font-weight: 800;
+  border: none;
+  cursor: pointer;
+}

@@ -7,8 +7,8 @@ function Plans() {
       <div className="planScreen__info">
         <h5>Premium Plan</h5>
         <h6>4K + HDR + Ads Free</h6>
-        <button>Subscribe</button>
       </div>
+      <button>Subscribe</button>
     </div>
   );
 }
