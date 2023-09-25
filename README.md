@@ -177,8 +177,6 @@ Thank you!
 
 # Netflix Clone
 
-![Netflix Clone](netflix.svg)
-
 ## Tabela e Përmbajtjes
 
 - [Introduksioni](#introduksioni)
