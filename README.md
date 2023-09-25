@@ -386,3 +386,10 @@ Kontributet në këtë projekt janë të mirëpritura! Nëse dëshironi të kont
 - Bëni ndryshimet tuaja dhe regjistrohuni me mesazhe komiti të përshkrueshme.
 
 Faleminderit/.
+
+SCREENSHOT:
+
+![Home](https://github.com/shpetimaliu/netflix-app/blob/master/screenshots/Screenshot%202023-09-25%20at%202.08.56%20PM.png?raw=true)
+![SignIn/Signup](https://github.com/shpetimaliu/netflix-app/blob/master/screenshots/Screenshot%202023-09-25%20at%202.09.15%20PM.png?raw=true)
+![Movies](https://github.com/shpetimaliu/netflix-app/blob/master/screenshots/Screenshot%202023-09-25%20at%202.09.33%20PM.png?raw=true)
+![Profile](https://github.com/shpetimaliu/netflix-app/blob/master/screenshots/Screenshot%202023-09-25%20at%202.09.53%20PM.png?raw=true)
