@@ -3,6 +3,8 @@
 
 # Netflix Clone
 
+Visit the live website: [https://netflix-clones-3ca62.web.app/](https://netflix-clones-3ca62.web.app/)
+
 ![Netflix Clone](https://raw.githubusercontent.com/shpetimaliu/netflix-app/master/public/netflix.svg)
 
 ## Table of Contents
