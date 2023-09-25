@@ -177,7 +177,6 @@ Thank you!
 
 # Netflix Clone (🇦🇱)
 
-# Netflix Clone
 
 ## Tabela e Përmbajtjes
 
