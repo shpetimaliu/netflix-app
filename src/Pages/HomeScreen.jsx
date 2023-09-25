@@ -4,8 +4,6 @@ import Nav from "../Components/Nav";
 import Row from "../Components/Row";
 import Requests from "../api/Requests.js";
 
-import "./HomeScreen.css";
-
 function HomeScreen() {
   return (
     <div className="homeScreen">
